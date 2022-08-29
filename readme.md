@@ -4,5 +4,6 @@ This project simply shows my journey into using python programming language in b
 
 Steps covered so far
 - Conditional Statement.
-- Try and Catch Statement
+- Try and Catch Statement.
+- Functions
 
